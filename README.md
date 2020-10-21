@@ -12,7 +12,7 @@ How to run:
 - Run the following:
 
 ``` sh
-$ git clone https://github.com/travisjeffery/datadog-terraform-example.git
+$ git clone https://github.com/JungYoungseok/datadog-terraform-example
 $ cd datadog-terraform-example
 $ terraform init
 $ terraform plan # You'll be asked to input your Datadog API and APP keys
